@@ -1,5 +1,5 @@
 
-#IRC Server Conclusion
+# IRC Server Conclusion
 	So, the conclusion from IRC server is that after obtaining the laptop from the lad I proceeded to open up and place in a hard drive for it need one.
   Then from there I decided to boot up the computer to see if it had windows on it it did not so I had to run a bun to on it. 
   Then from there I had to receive help several times 4 hours unclear on and had a hard time remembering how to upload and download information on a bun to or Linux. 
