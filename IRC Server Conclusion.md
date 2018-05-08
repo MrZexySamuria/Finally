@@ -11,3 +11,5 @@ So, the conclusion from IRC server is that after obtaining the laptop from the l
   That's a list my 2 cents that I got out of this project it was quite enlightening and I did enjoy the history behind it.
 
 Place to Downlaod UnrealIRCD: https://www.unrealircd.org/index/about
+![image](https://github.com/MrZexySamuria/Finally/blob/master/31963855_1503512709778406_7148126637807108096_n.jpg)
+![image](https://github.com/MrZexySamuria/Finally/blob/master/31959819_1503512799778397_147540544753500160_n.jpg)
